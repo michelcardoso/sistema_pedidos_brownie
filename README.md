@@ -16,7 +16,7 @@ Projeto simples feito com Python para treinar conceitos do Bootcamp Santander Ba
 - SQLite (futuramente)
 - FastAPI (em breve)
 
-## Como usar
+## 📌Como usar
 
 1. Clone o repositório
 2. Rode o `main.py`
