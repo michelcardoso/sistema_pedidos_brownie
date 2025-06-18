@@ -24,4 +24,4 @@ Projeto simples feito com Python para treinar conceitos do Bootcamp Santander Ba
 
 ## Autor
 
-Michel Cardoso
+Michel Cardoso 🌞
